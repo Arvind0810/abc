@@ -83,7 +83,7 @@ ol.commentlist {
 }
 .comment-content {
     background-color: #fff;
-    padding: 15px;
+    padding: 0 15px;
     border-radius: 5px;
     border-left: 5px solid gray;
 }
@@ -151,6 +151,19 @@ a.btn.btn-readmore {
 }
 .nav-previous a,.nav-next a{
     color:#fff;
+}
+.header-logo {
+    width: 80px;
+    margin: 20px 0;
+}
+.bg-light {
+    background-color: #2d2d2d;
+}
+.navbar-nav .menu-item a{
+    color:#ffffff;
+}
+.footer {
+    color: #fff;
 }
 @media only screen and (max-width: 600px){
 	.col-sm-4{width:50%;}
